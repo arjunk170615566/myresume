@@ -40,7 +40,8 @@ Seeking to contribute technical expertise and strong problem-solving abilities i
 - Completed **Virtual Internship on Ethical Hacking & Penetration Testing** (Apr–May 2025) with **C-DAC Noida (Cyber Gyan Project)**  
 
 ## 🌐 Links
-- 📧 Email: [arjunkumar1049@gmail.com](mailto:arjunkumar1049@gmail.com)  
+- 📧 Email: [arjunkumar1049@gmail.com](mailto:arjunkumar1049@gmail.com)
+  ☎  Phone: 8318140860
 - 💼 LinkedIn: [Arjun Kumar](https://www.linkedin.com/in/arjun-kumar-b607392b6)  
 - 💻 GitHub: [arjunk170615566](https://github.com/arjunk170615566)  
 - 🔗 Projects:  
